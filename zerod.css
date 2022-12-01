@@ -1,0 +1,480 @@
+body{
+    margin: 0;
+}
+*
+{
+    font-family: sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 70px;
+    background: #fff;
+    border-style:dotted;
+    border-bottom: #666;
+    border-width: .1px;
+    border-color: #666;
+    
+    
+}
+.logohalf
+{
+   
+    width: 100%;
+    height: 70px
+    
+    
+}
+.logo
+{
+    width: 135px;
+    height: 20px;
+    padding-left: 20px;
+    padding-top: 27px;
+    float: left;
+    
+}
+.logosecond
+{
+    float: right;
+    width: 50%;
+    height: 70px;
+}
+.logotext
+{
+    float: left;
+    color: #666;
+    font-family: "Inter", serif;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-left: 3px;
+    cursor: pointer;
+}
+.line {
+    
+    float: left;
+    padding-right: 60px;
+    padding-top: 27px;
+    cursor: pointer;
+  }
+.firstimg
+{
+    width: 360px;
+    height: 240px;
+    padding-left: 410px;
+    
+}
+.outer1
+{
+    text-align: center;
+}
+.first-line
+{    float: left;
+    font-size: 55px;
+    color: #494646;
+    padding-left: 365px;
+    
+}
+.second-line
+{
+    float: left;
+    font-size: 25px;
+    padding-left: 260px;
+    color: #494646;
+    padding-top: 15px;
+}
+.outer3
+{
+    padding-top: 90px;
+    padding-left: 490px;
+    
+
+}
+
+.third-line
+{
+ width: 200px;
+ height: 45px;
+ font-size: 20px;
+ background: #387ed1;
+ color: #fff;
+ border-radius: 3px;
+ border: 1px solid transparent !important;
+ border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    text-align: center;
+}
+.third-line:hover
+{
+    background: rgb(44, 42, 42);
+}
+.porttwo
+{
+    width: 100%;
+    height: 300px;
+}
+.porttwoimg
+{
+    float: left;
+    width: 50%;
+    height: 300px;
+}
+.porttwolist
+{
+    float: left;
+    width: 50%;
+    height: 300px;
+}
+.list{
+    float: left;
+    width: 100%;
+    height: 300px;
+}
+.market
+{
+    float: left;
+    height: 60px;
+    width: 100%;
+    font-size: 18px;
+}
+.markethead
+{
+    width: 100%;
+}
+.totaltab
+{
+    width: 100%;
+    height: 100px;
+    line-height: 35px;
+}
+.heading
+{
+    width: 100%;
+}
+
+.para
+{
+    width: 100%;
+    font-size: 5px;
+    height: 100px;
+
+    
+} 
+.listview
+{
+    height: 90px;
+    padding-top: 30px;
+
+}
+.listed
+{
+    height: 110px;
+    width: 300px;
+}
+.listlogo
+{
+    height: 69px;
+    width: 470px;
+    cursor: pointer;
+}
+.portthree
+{
+    float: left;
+    width: 100%;
+    height: 40px;
+    padding-top: 150px;
+}
+.universe
+{
+    float: left
+    ;width: 100%;
+    height: 40px;
+    text-align: center;
+    color: #424242;
+}
+.lines
+{
+    text-align: center;
+    font-size: 24px;
+    color: #424242;
+}
+.graph
+{
+    width: 100%;
+}
+.graphs
+{
+    width: 100%;
+    padding-top: 140px;
+
+}
+.grtext
+{
+    text-align: center;
+    font-size: 20px;
+    color: #387ed1;
+    cursor: pointer;
+}
+.grtext:hover
+{
+    color: rgb(36, 40, 38);
+}
+.price
+{
+width: 100%;
+height: 200px;
+}
+.pricefirst
+{
+    float: left;
+    width: 50%;
+    height: 200px;
+}
+.price-head
+{
+ padding-left: 20px;
+ font-size: 20px;
+}
+.headp
+{
+    padding-left: 20px;
+    color: #424242;
+}    
+.price-para
+{
+    padding-left: 47px;
+    color: #424242;
+    font-size: 19px;
+}
+.see-price
+{
+    padding-left: 49px;
+    color: #387ed1;
+    cursor: pointer;
+}
+.see-price:hover
+{
+    color: rgb(36, 40, 38);
+}
+.pricesecond
+{
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+.ratetable
+{
+    align-items: center;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    color: #494646;
+    font-family: sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+    
+    
+}
+.centerline
+{
+    border: .2px solid black;
+    border-collapse: collapse;
+}
+h6{
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 30px;
+}
+h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    line-height: 10px;
+}
+.colomn
+{
+    border: 1px black;
+}
+.varsity
+{
+    width: 100%;
+    height: 350px;
+}
+.varsimg
+{
+    float: left;
+    width: 50%;
+    height: 350px;
+    margin-top: 20px;
+}
+.vimg
+{
+
+    width: 80%;
+    height: 90%;
+}
+.vars-para
+{
+    padding-top: 30px;
+}
+.varh
+{
+    font-size: 28px;
+    color: #424242;
+    font-family: "Inter", serif;
+    letter-spacing: 1px;
+
+}
+.varparag
+{
+    font-size: 16px;
+}
+.parv
+{
+    font-size: 19px;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    color: #424242;
+}
+.vaarslink
+{
+    font-size: 18px;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #387ed1;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+.vaarslink:hover
+{
+    color: #494646;
+}
+.account
+{
+    width: 100%;
+    height: 300px;
+}
+.acchead
+{
+    text-align: center;
+    padding-top: 140px;
+    font-size: 35px;
+    color: #424242;
+}
+.ls{
+    text-align: center;
+}
+.lines{
+    font-size: 16px;
+}
+.lastsign
+{
+    padding-left: 440px;
+}
+.footer
+{
+    height: 380px;
+    width: 100%;
+    background: rgb(247, 243, 243);
+}
+.partfirst
+{
+    float: left;
+    width: 30%;
+    height: 300px;
+}
+.footlogo
+{
+    width: 50%;
+    height: 15%;
+    padding-left: 17px;
+    padding-top: 30px;
+}
+.footerleftpara
+{
+    font-size: 12px;
+    letter-spacing: 1px;
+    padding-left: 17px;
+}
+.parasec
+{
+    float: left;
+    width: 25%;
+    height: 300px;
+    font-family: sans-serif;
+    color: #424242;
+    cursor: pointer;
+    padding-top: 11px;
+
+}
+.foothead
+{
+    font-size: 20px;
+
+}
+.parathird
+{
+    float: left;
+    width: 25%;
+    height: 300px;
+    font-family: sans-serif;
+    color: #424242;
+    cursor: pointer;
+    padding-top: 11px;
+
+}
+.parfour
+{
+    float: left;
+    width: 20%;
+    height: 300px;
+    font-family: sans-serif;
+    color: #424242;
+    cursor: pointer;
+    padding-top: 11px;
+}
+.footlastpara
+{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background: rgb(247, 243, 243)
+}
+.flast
+{
+    float: left;
+    font-size: 11px;
+    padding-left: 18px;
+    line-height: 18px;
+    background: rgb(247, 243, 243)
+}
+.bluelink
+{
+
+    font-size: 11px;
+    color: #387ed1;
+    cursor: pointer;
+}
+.bottomline
+{
+    font-size: 14px;
+    color: #424242;
+    cursor: pointer;
+    padding-left: 140px;
+    line-height: 5px;
+}
+.bottomline:hover
+{
+    color: #387ed1;
+}
