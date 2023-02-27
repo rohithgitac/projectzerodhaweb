@@ -5,23 +5,28 @@ body{
 {
     font-family: sans-serif;
 }
-.header
+
+
+div.fir
 {
+    position: fixed;
+    width: 100%;
     width: 100%;
     height: 70px;
     background: #fff;
-    border-style:dotted;
-    border-bottom: #666;
-    border-width: .1px;
-    border-color: #666;
-    
+     box-shadow: 2px 1px 2px #eee;
+   box-sizing: border-box;
+   margin: auto;
+   overflow: hidden;
+   display: block;
     
 }
 .logohalf
 {
    
-    width: 100%;
-    height: 70px
+    width: 50%;
+    height: 70px;
+    float: left;
     
     
 }
@@ -29,9 +34,10 @@ body{
 {
     width: 135px;
     height: 20px;
-    padding-left: 20px;
+    padding-left: 45px;
     padding-top: 27px;
     float: left;
+    
     
 }
 .logosecond
@@ -50,6 +56,12 @@ body{
     padding-left: 3px;
     cursor: pointer;
 }
+.logotext:hover
+{
+    color: rgb(0, 0, 255);
+    font-size: large;
+   
+}
 .line {
     
     float: left;
@@ -57,39 +69,39 @@ body{
     padding-top: 27px;
     cursor: pointer;
   }
+  div.center
+  {
+
+    text-align: center;
+    display: block;
+    padding-top: 100px;
+
+  }
+
 .firstimg
 {
     width: 360px;
     height: 240px;
-    padding-left: 410px;
-    
 }
-.outer1
+.outer1,.outer2,.outer3
 {
     text-align: center;
 }
 .first-line
-{    float: left;
+{   
     font-size: 55px;
     color: #494646;
-    padding-left: 365px;
+
     
 }
 .second-line
 {
-    float: left;
-    font-size: 25px;
-    padding-left: 260px;
-    color: #494646;
-    padding-top: 15px;
-}
-.outer3
-{
-    padding-top: 90px;
-    padding-left: 490px;
-    
 
+    font-size: 25px;
+    color: #494646;
+    
 }
+
 
 .third-line
 {
@@ -478,3 +490,4 @@ h2{
 {
     color: #387ed1;
 }
+
